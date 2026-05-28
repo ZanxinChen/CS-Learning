@@ -1,21 +1,21 @@
 # Changelog
 
-本文件用于记录 CS Learning 项目的重要更新。格式参考 Keep a Changelog，并使用日期归档学习进展、结构调整和阶段性成果。
+This file records important updates for the CS Learning project. The format is inspired by Keep a Changelog and is organized by date, learning progress, structural changes, and milestone outcomes.
 
 ## [Unreleased]
 
 ### Planned
 
-- 创建计算机视觉课程文件夹与学习路线。
-- 创建强化学习课程文件夹与学习路线。
-- 创建具身智能与机器人课程文件夹与学习路线。
-- 逐步补充扩散模型、VLA、World Model 和视频生成方向的课程规划。
+- Create the computer vision course folder and study roadmap.
+- Create the reinforcement learning course folder and study roadmap.
+- Create the embodied AI and robotics course folder and study roadmap.
+- Add course plans for diffusion models, VLA, world models, and video generation.
 
 ## [0.1.0] - 2026-05-28
 
 ### Added
 
-- 初始化项目 README，明确项目愿景、学习方向和推荐目录结构。
-- 创建项目更新日志，用于持续记录课程推进和学习成果。
-- 添加基础 `.gitignore`，覆盖 macOS、Python、Node、Jupyter、编辑器和实验输出文件。
-
+- Initialized the project README with the project vision, learning tracks, and suggested repository structure.
+- Created the project changelog for tracking course progress and learning milestones.
+- Added a base `.gitignore` covering macOS, Python, Node, Jupyter, editor files, and experiment outputs.
+- Standardized the root project documentation in English.
