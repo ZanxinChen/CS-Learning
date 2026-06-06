@@ -10,6 +10,10 @@ This changelog records major learning milestones only. Add a concise entry when 
 - Completed the homework for <course>.
 ```
 
+## 2026-06-06
+
+- Added HW2 for Machine Learning by Hung-yi Lee.
+
 ## 2026-05-31
 
 - Added HW1 for Machine Learning by Hung-yi Lee.
