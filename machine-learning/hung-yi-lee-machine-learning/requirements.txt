@@ -1,0 +1,12 @@
+gdown
+kagglehub
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+torch
+torchaudio
+torchvision
+tqdm
+wandb

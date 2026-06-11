@@ -1,0 +1,22 @@
+name: hung-yi-lee-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ipykernel
+  - jupyterlab
+  - notebook
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pillow
+  - tqdm
+  - pip:
+      - gdown
+      - kagglehub
+      - torch
+      - torchaudio
+      - torchvision
+      - wandb
