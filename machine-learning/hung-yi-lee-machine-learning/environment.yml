@@ -14,9 +14,9 @@ dependencies:
   - pillow
   - tqdm
   - pip:
-      - gdown
-      - kagglehub
-      - torch
-      - torchaudio
-      - torchvision
-      - wandb
+      - gdown==5.2.0
+      - kagglehub==0.3.12
+      - torch==2.7.1
+      - torchaudio==2.7.1
+      - torchvision==0.22.1
+      - wandb==0.20.1
