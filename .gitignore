@@ -56,3 +56,5 @@ mlruns/
 # data
 *.csv
 *.zip
+machine-learning/hung-yi-lee-machine-learning/HW*/data/
+machine-learning/hung-yi-lee-machine-learning/HW*/.kagglehub/
